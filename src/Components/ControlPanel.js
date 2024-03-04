@@ -14,7 +14,7 @@ import ArcSlider from './ArcSlider';
 import SingleButton from './SingleButton';
 import ThreeButton from './ThreeButton';
 import Thermostat from './Thermostat';
-import KnobControl from './knobcontrol';
+
 
 const ControlPanel = ({ selectedDevice, roomName }) => {
   const [isSwitchOn, setSwitchOn] = useState(false);
