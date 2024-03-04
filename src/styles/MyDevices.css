@@ -1,0 +1,19 @@
+/* src/styles/MyDevices.css */
+.my-devices {
+    width: 100%;
+    border-radius: 10px;
+    margin-top: 20px;
+    padding: 20px;
+  }
+  
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .dropdown {
+    display: flex;
+    align-items: center;
+  }
+  

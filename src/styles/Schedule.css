@@ -1,0 +1,56 @@
+/* schedule.css */
+
+/* Container for the schedule list */
+.schedule-container {
+
+
+  
+}
+
+/* Style for the saved schedules section */
+.saved-schedules {
+ margin-top: 5px;;
+}
+
+/* Style for each saved schedule item */
+.saved-schedule-item {
+  border: 1px solid #e3e3e3;
+  background-color: whitesmoke;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 20px;
+}
+
+/* Style for schedule info section */
+.schedule-info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 5px;
+}
+
+/* Style for schedule label */
+.schedule-label {
+  font-weight: bold;
+}
+
+/* Style for schedule details section */
+.schedule-details {
+  display: flex;
+  justify-content: space-between;
+}
+
+/* Style for schedule turn section */
+.schedule-turn {
+  font-style: italic;
+}
+
+/* Style for schedule time section */
+.schedule-time {
+  font-style: italic;
+}
+.daily-checkbox {
+  
+  
+  margin: 5px;
+} 
